@@ -102,7 +102,8 @@ pnpm dev
 
 ![fluximage.org](https://pub-f5fc00c4ca7b445d95004c53d4b77e82.r2.dev/images/%E6%88%AA%E5%B1%8F2024-08-16%2011.42.05.png "Flux AI Image Generator")
 
-
+<h1 align="center" style="color: Red";> ✧ Thanks To Nass and Candytools ✧
+</h1>
 
 ## Link Me
 
